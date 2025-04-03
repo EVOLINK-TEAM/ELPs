@@ -1,0 +1,15 @@
+[submodule "ELPs/ELP05-Eplsode-II"]
+	path = ELPs/ELP05-Eplsode-II
+	url = git@github.com:EVOLINK-TEAM/ELP05-Eplsode-II.git
+[submodule "ELPs/ELP03-Neon-II"]
+	path = ELPs/ELP03-Neon-II
+  url = git@github.com:EVOLINK-TEAM/ELP03-Neon-II.git
+[submodule "ELPs/ELP13-Terminal"]
+	path = ELPs/ELP13-Terminal
+  url = git@github.com:EVOLINK-TEAM/ELP13-Terminal.git
+[submodule "ELPs/DevBoard-ornate"]
+	path = ELPs/DevBoard-ornate
+	url = git@github.com:EVOLINK-TEAM/DevBoard-ornate.git
+[submodule "ELPs/ELP12-Levithan-II"]
+	path = ELPs/ELP12-Levithan-II
+	url = git@github.com:EVOLINK-TEAM/ELP12-Levithan-II.git
